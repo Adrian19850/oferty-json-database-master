@@ -1,0 +1,202 @@
+{
+  "oferty": [
+    {
+      "city": "Gdańsk",
+      "attributes": "Nowa konfiguracja sprzęt sprawdzony",
+      "category": "Other",
+      "description": "Sięgnij po możliwości architektury NVIDIA Turing oraz platformy RTX. Ciesz się płynną rozgrywką w wysokiej rozdzielczości, dodatkowo wzbogaconą o wyjątkowe efekty wizualne dzięki technologii Ray Tracing. Gigabyte GeForce RTX 2060 D6 z 6 GB pamięci GDDR6 gwarantuje wysoką liczbę FPS, a o stabilną pracę zadba układ chłodzenia Windforce 2X",
+      "photo_path": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/4/pr_2021_4_8_12_11_0_979_05.jpg",
+      "stan": "New",
+      "title": "Karta Graficzna",
+      "rating_of_users": "5.9",
+      "chosen": "0",
+      "id": 1
+    },
+    {
+      "photo_path": "https://audiopolis.pl/environment/cache/images/500_500_productGfx_db7e678fc1d8673339b7915f9ad7e90d.jpg",
+      "title": "Denon PMA-600NE",
+      "stan": "New",
+      "category": "Audio equipment",
+      "attributes": "2x 70 W mocy wyjściowej na kanał wbudowany moduł Bluetooth",
+      "description": "Żywiołowy przekaz idzie w parze z subtelnie osłodzoną barwą typową dla urządzeń Denona. Sporo dzieje się zarówno w paśmie niskich, jak i wysokich tonów. Z jednej strony brzmienie jest solidnie dociążone ze strony basu, ale z drugiej, jest dźwięczne i lekkie w górnych rejestrach",
+      "city": "Kościerzyna",
+      "rating_of_users": "8.9",
+      "chosen": "1",
+      "id": 2
+    },
+    {
+      "title": "Cambridge Audio AXR100",
+      "stan": "New",
+      "category": "Audio equipment",
+      "photo_path": "https://audiopolis.pl/environment/cache/images/500_500_productGfx_f32d7b024373c29db7517884f44e82ee.jpg",
+      "rating_of_users": "8.9",
+      "city": "Gdańsk",
+      "description": "Najpotężniejszy amplituner Cambridge Audio serii AX dostarcza ogromną moc 100 W na kanał przy obciążeniu 8 Ω, posiada osobne wyjście subwoofera zwiększające jakość basów oraz dwa zestawy wyjść głośnikowych. Ponadto, wbudowany odbiornik Bluetooth umożliwia przesyłanie strumieniowe muzyki ze smartfonu, tabletu lub komputera PC.",
+      "attributes": "     moc wyjściowa: 2x 100 W przy obciążeniu 8 Ω     Bluetooth 5.0 A2DP/AVRCP obsługuje SBC     wejścia cyfrowe: Coaxial S/PDIF - PCM 16-24 bit 32 - 192 kHz oraz Toslink optyczny 32 - 192 kHz     maksymalny pobór mocy: 550 W",
+      "chosen": "0",
+      "id": 3
+    },
+    {
+      "title": "Onkyo TX-8270",
+      "stan": "New",
+      "category": "Audio equipment",
+      "description": "Urządzenie, oprócz wysokiej klasy dźwięku stereo oferuje zaawansowane funkcje charakterystyczne dla urządzeń A/V, a także kompletny dostęp do usług internetowych, serwerów sieciowych i bezprzewodowe wysyłanie dźwięku do głośników/urządzeń umieszczonych w innych pomieszczeniach - bezprzewodowy multiroom.",
+      "attributes": "moc wyjściowa 160 W na kanał konwersja A/D 384 kHz/24-bit (AK 4438) i filtr analogowy VLSC™ - dźwięk czysty i klarowny 4 wejścia/ 1 wyjście HDMI (HDCP 2.2 i ARC) - podłączenie urządzeń multimedialnych i wyjście na TV stabilne dwuzakresowe Wi-Fi: 5 GHz/2,4 GHz przygotowany do: Chromecast i DTS Play-Fi - multiroom bezprzewodowy",
+      "city": "Gdynia",
+      "rating_of_users": "7.9",
+      "photo_path": "https://audiopolis.pl/environment/cache/images/500_500_productGfx_09bc5288e5dd2460574b7a45a8f16321.jpg",
+      "chosen": "1",
+      "id": 4
+    },
+    {
+      "title": "Cambridge Audio EVO150 ",
+      "stan": "New",
+      "category": "Audio equipment",
+      "photo_path": "https://audiopolis.pl/environment/cache/images/500_500_productGfx_3551ddd448b5d68902e3b6be6e5e7724.jpg",
+      "city": "Sopot",
+      "attributes": "     moc wyjściowa: 2x 100 W przy obciążeniu 8 Ω     Bluetooth 5.0 A2DP/AVRCP obsługuje SBC     wejścia cyfrowe: Coaxial S/PDIF - PCM 16-24 bit 32 - 192 kHz oraz Toslink optyczny 32 - 192 kHz     maksymalny pobór mocy: 550 W",
+      "description": "Urządzenie, oprócz wysokiej klasy dźwięku stereo oferuje zaawansowane funkcje charakterystyczne dla urządzeń A/V, a także kompletny dostęp do usług internetowych, serwerów sieciowych i bezprzewodowe wysyłanie dźwięku do głośników/urządzeń umieszczonych w innych pomieszczeniach - bezprzewodowy multiroom.",
+      "rating_of_users": "9.5",
+      "chosen": "1",
+      "id": 5
+    },
+    {
+      "photo_path": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2020/9/pr_2020_9_22_8_34_1_154_02.jpg",
+      "title": "Seagate IRONWOLF PRO CMR",
+      "attributes": "    Pojemność:6000 GB     Interfejs:SATA III     Format:3.5\"     Prędkość obr.:7200 obr./min",
+      "stan": "New",
+      "category": "Computer components",
+      "description": "Zastosuj dyski twarde Seagate Ironwolf Pro przeznaczone do pracy w systemie NAS i zwiększ wydajność oraz skuteczność swojej firmy. Szeroka zgodność systemowa daje możliwość sprawnego połączenia z istniejącą infrastrukturą sieciową. Daj swoim współpracownikom możliwość sprawnego dzielenia się kluczowymi plikami oraz tworzenia kopii zapasowych, by uchronić ich przed utratą cennych danych.",
+      "city": "Stara Kiszewa",
+      "rating_of_users": "6.7",
+      "chosen": "0",
+      "id": 6
+    },
+    {
+      "photo_path": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2020/5/pr_2020_5_6_15_54_11_386_00.jpg",
+      "rating_of_users": "5.7",
+      "city": "Malbork",
+      "attributes": "    Seria:i5-10400F     Taktowanie:2.9 GHz     Liczba rdzeni:6 rdzeni     Cache:12 MB",
+      "description": "Poznaj moc do dziesiątej potęgi. Nowy procesor Intel® Core™ i5-10400F z rodziny Comet Lake zapewnia wysoką wydajność, która przekłada się na wzrost produktywności i fantastyczną rozrywkę. Intel Core i5 10-generacji oferuje m.in. częstotliwość dochodzącą do 4.3 GHz w trybie turbo, 6 rdzeni, 12 wątków, a także inteligentną optymalizację systemu. Odkryj nowe ultramożliwości z procesorem Intel® Core™ i5-10400F.",
+      "stan": "New",
+      "category": "Computer components",
+      "title": "Intel Core i5-10400F",
+      "chosen": "0",
+      "id": 7
+    },
+    {
+      "title": "be quiet! Pure Base 500DX Black",
+      "stan": "New",
+      "category": "Computer components",
+      "attributes": "    Typ:Middle Tower     Standard płyty:ATX, m-ATX, Mini-ITX     Karty rozszerzeń:7     Maks. długość grafiki:369 mm",
+      "description": "Zapewnij swojemu desktopowi niepowtarzalną oprawę z czarną obudową be quiet! Pure Base 500DX. Ta oryginalna konstrukcja wyróżnia się gamingowym designem, uzupełnionym przez przeszklony panel boczny i podświetlenie LED. Możesz z dumą wyeksponować stworzoną konfigurację i ukazać desktopa skąpanego w wielokolorowym blasku. Przestronne wnętrze pomieści wszystkie niezbędne komponenty, a fabryczny system chłodzenia zapewni odpowiednią wentylację.",
+      "city": "Gdańsk",
+      "rating_of_users": "7.9",
+      "photo_path": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2020/4/pr_2020_4_23_11_50_6_672_00.jpg",
+      "chosen": "1",
+      "id": 8
+    },
+    {
+      "photo_path": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/6/pr_2021_6_8_12_30_47_223_00.jpg",
+      "title": "Dell Inspiron 5410 i5-1135G7",
+      "stan": "New",
+      "category": "Laptops",
+      "attributes": "    Procesor:Intel Core i5-1135G7     Pamięć:16 GB     Grafika:Intel Iris Xe Graphics     Typ ekranu:Błyszczący, LED, WVA     Konfiguracja rozbudowana przez x-kom",
+      "description": "tylowa, lekka obudowa, w której kryje się nieprzeciętna wydajność. Poznaj Dell Inspiron 5410, 14-calowy laptop, który ze względu na swą lekkość i kompaktowe rozmiary szybko stanie się nieodłącznym towarzyszem Twoich podróży. Efektowny ekran w połączeniu z dobrą jakością dźwięku to świetna okazja, by w wolnej chwili obejrzeć kolejny odcinek ulubionego serialu. Postaw na mobilność, postaw na Dell Inspiron 5410.",
+      "city": "Kościerzyna",
+      "rating_of_users": "9.5",
+      "chosen": "0",
+      "id": 9
+    },
+    {
+      "title": "Acer Nitro 5 i7-10750H",
+      "stan": "New",
+      "category": "Laptops",
+      "attributes": "    Procesor:Intel Core i7-10750H     Pamięć:16 GB     Grafika:NVIDIA GeForce RTX 3060 + Intel UHD Graphics     Typ ekranu:Matowy, LED, IPS",
+      "description": "Tam, gdzie ultrawydajność łączy się z elegancją, tam jest miejsce dla Acer Nitro 5. Mając ten laptop w ekwipunku, zyskujesz potężny gamingowy oręż, który poprowadzi Cię ścieżką e-sportowych sukcesów. Z inteligentnym układem chłodzenia wyzwolisz pełną moc procesora i dedykowanej karty graficznej. Matryca 144 Hz zwiększy Twoją efektywność podczas gry, a nowoczesne rozwiązania Wi-Fi pozwolą na wykorzystanie do maksimum bezprzewodowego łącza internetowego",
+      "city": "Sopot",
+      "rating_of_users": "8.9",
+      "photo_path": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/4/pr_2021_4_26_12_36_9_628_06.jpg",
+      "chosen": "1",
+      "id": 10
+    },
+    {
+      "photo_path": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2020/9/pr_2020_9_29_13_48_33_591_00.jpg",
+      "title": "HP Pavilion Gaming i5-10300H",
+      "attributes": "    Procesor:Intel Core i5-10300H     Pamięć:16 GB     Grafika:NVIDIA GeForce GTX 1650Ti + Intel UHD Graphics     Typ ekranu:Matowy, LED, IPS     Konfiguracja rozbudowana przez x-kom",
+      "description": "Gotuj się do walki. Gamingowy laptop HP Pavilion Gaming wprowadzi Cię na pola wirtualnych bitew, oddając do dyspozycji arsenał, który poprowadzi Cię do niezliczonych zwycięstw. Wyposażony został w wyselekcjonowane, ultrawydajne komponenty - nowoczesny procesor oraz dedykowaną kartę graficzną. Z takim zapleczem technologicznym Twoi rywale mogą co najwyżej przygotowywać się do odwrotu.",
+      "city": "Stara Kiszewa",
+      "rating_of_users": "9.5",
+      "stan": "Used",
+      "category": "Laptops",
+      "chosen": "1",
+      "id": 11
+    },
+    {
+      "title": "Apple MacBook Pro i7 2,6GHz",
+      "stan": "New",
+      "category": "Laptops",
+      "attributes": "    Procesor:Intel Core i7-9750H     Pamięć:16 GB     Grafika:AMD Radeon™ Pro 5300M + Intel UHD Graphics 630     Typ ekranu:Błyszczący, LED, IPS, Retina",
+      "description": "Oto najpotężniejszy notebook od Apple. Stworzony dla twórców. Ma niesamowity wyświetlacz Retina o przekątnej 16 cali, superszybki procesor, grafikę nowej generacji, najpojemniejszą baterię w historii MacBooka Pro, nową klawiaturę Magic Keyboard i olbrzymią pamięć masową. To najdoskonalszy sprzęt dla najbardziej wymagających profesjonalistów.",
+      "city": "Kościerzyna",
+      "rating_of_users": "6.7",
+      "photo_path": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/4/pr_2021_4_17_9_7_51_556_00.jpg",
+      "chosen": "0",
+      "id": 12
+    },
+    {
+      "title": "Green Cell UPS (1500VA/900W, 4x Schuko, AVR,",
+      "stan": "New",
+      "category": "Other",
+      "attributes": "Topologia:Line-interactive Moc skuteczna:900 W Moc pozorna:1500 VA",
+      "description": "Zabezpiecz swoje domowe lub firmowe urządzenia na wypadek nagłej przerwy w dostawie prądu, wybierając ten wysokiej jakości zasilacz awaryjny Green Cell Power Proof UPS04. UPS pozwoli Ci uniknąć uszkodzenia rozmaitych sprzętów w razie awarii zasilania, a także utraty niezapisanych wyników swojej pracy na komputerze, zapewniając moc pozorną/skuteczną na poziomie 1500VA/900W",
+      "city": "Gdynia",
+      "rating_of_users": "6.7",
+      "photo_path": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2020/4/pr_2020_4_29_12_14_12_772_01.jpg",
+      "chosen": "0",
+      "id": 13
+    },
+    {
+      "photo_path": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/3/pr_2021_3_25_11_34_10_565_00.jpg",
+      "title": "Samsung QE65QN85A",
+      "stan": "Used",
+      "category": "Computer components",
+      "attributes": "Przekątna ekranu:65\" Rozdzielczość:3840 x 2160 UHD 4K Typ telewizora:QLED",
+      "description": "Wkrocz do świata najnowszej generacji technologii obrazu z telewizorem Samsung QE65QN85A. Kontrolowane lepiej niż kiedykolwiek podświetlenie ekranu jest możliwe dzięki technologii Quantum Mini LED. Dzięki temu możesz cieszyć się seansami wzbogaconymi o niedostrzegalne wcześniej szczegóły. Zarówno w ciemnych, jak i jasnych scenach każdy detal będzie niezwykle ostry",
+      "city": "Gdynia",
+      "rating_of_users": "5.7",
+      "chosen": "1",
+      "id": 14
+    },
+    {
+      "title": "Optoma HD28e DLP",
+      "stan": "New",
+      "category": "Other",
+      "attributes": "    Technologia:DLP     Kontrast:30 000:1     Moc lampy:240 W     3D Ready:Tak",
+      "description": "Wygodny i łatwy w konfiguracji, a jednocześnie jasny i wszechstronny, projektor HD28e wykorzystuje technologię Amazing Colour i spełnia normę Rec.709 zapewniając rzeczywiste odwzorowanie kolorów. Ten mały projektor idealnie nadaje się do oglądania programów telewizyjnych, filmów i transmisji sportowych na żywo na dużym ekranie o dowolnej porze dnia. Dzięki małemu opóźnieniu wejścia, umożliwia podłączenie konsoli do gier",
+      "city": "Rumia",
+      "rating_of_users": "6.7",
+      "photo_path": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2020/3/pr_2020_3_10_8_59_45_222_00.jpg",
+      "chosen": "0",
+      "id": 15
+    }
+  ],
+  "categories": [
+    "Other",
+    "Computer components",
+    "Audio equipment",
+    "Laptops"
+  ],
+  "stans": [
+    "New",
+    "Used"
+  ],
+  "chosens": [
+    "0",
+    "1"
+  ],
+  "accepteds": [
+    "0",
+    "1"
+  ]
+}
